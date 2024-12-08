@@ -5,7 +5,7 @@
     "router": "./router.py:graph",
     "agent": "./agent.py:graph"
   },
-  "env": "./.env",
+  "env": "D:/code/langchain/learn_langgraph/module_1/studio/.env",
   "python_version": "3.11",
   "dependencies": [
     "."
